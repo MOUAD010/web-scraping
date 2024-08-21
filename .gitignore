@@ -1,0 +1,7 @@
+# Ignore virtual environment folder
+venv/
+node_modules/
+# Other ignores
+*.pyc
+__pycache__/
+.env
